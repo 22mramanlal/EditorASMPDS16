@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <description name="git" url="https://github.com/22mramanlal/EditorASMPDS16/tree/gh-pages">
-      oi
-   </description>
-   <feature url="features/PDS16_ASM_Editor_1.0.0.201605191618.jar" id="PDS16_ASM_Editor" version="1.0.0.201605191618"/>
-</site>
